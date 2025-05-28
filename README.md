@@ -1,4 +1,5 @@
 # 💫 About Me:
+  I am currently pursuing Computer Sciecne Engineering (Int.Mtech) at Vellore Institute of Technology, Vellore .
  <br>I am interested in data analysis in healthcare systems and enterprise resource planning.<br>
  I am currently working on streamlining and digitizing the supply chain process in an automotive and manufacturing company.
 
