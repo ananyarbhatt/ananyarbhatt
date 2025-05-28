@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on streamlining and digitizing the supply chain process in an automotive and manufacturing company. <br>I am interested in data analysis in healthcare systems and enterprise resource planning.<br>
+ <br>I am interested in data analysis in healthcare systems and enterprise resource planning.<br>
+ I am currently working on streamlining and digitizing the supply chain process in an automotive and manufacturing company.
 
 
 ## 🌐 Socials:
